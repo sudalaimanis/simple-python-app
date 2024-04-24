@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Pull the Docker image from the Docker Hub 
+# Pull the Docker image from the Docker Hub
 docker pull sudalaimmanis/simple-python-flask-app
 
 # Run the Docker image as a container
